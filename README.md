@@ -4,7 +4,7 @@ This repository works on the data extracted from the Kaggle Competition
 ['Rossmann Store Sales-Forecast sales using store, promotion, and competitor data'](https://www.kaggle.com/c/rossmann-store-sales/overview)
 
 ## Overview
-This app is a demonstration of how data solutions like Data Analyses and Forecast can easily be made end user friendly, such type
+This app is a demonstration of how data solutions like Data Analysis and Forecast can easily be made end user friendly, such type
 of apps (web apps) can be used to get an overview of a company and its performance in the recent time.
 <br><br>For the ease of people reading it we have created the seprate folder for seprate modules : <br>
 * [data](/data) : contains all the data files used in the repo inculding the images used in the app, configure the [config.py](/streamlit_app/config.py) using resources from here<br>
@@ -22,12 +22,12 @@ In [Streamlit App folder](/streamlit_app) :
 ## Deployment 
 The app is deployed using the [heroku](https://heroku.com/) as <b>PAS</b>.<br> 
 Follow the following link to check the live deployment of the app.<br>
-[Rossman Sales Analyses and Prediction](https://rossman-streamlit.herokuapp.com/)
+[Rossman Sales Analysis and Prediction](https://rossman-streamlit.herokuapp.com/)
 
 ## Demo
 ##### Home page for the web app
 ![Home page](home.gif)
-##### Data Visualization for analyses
+##### Data Visualization for analysis
 ![Data Visualization](visualization.gif)
 ##### Sales forecast
 ![Model Prediction](model.gif)
